@@ -28,13 +28,4 @@ npm run dev
 
 Open http://localhost:3000
 
-## Deploy to Vercel (free)
-
-1. Push this folder to a new GitHub repository.
-2. Go to https://vercel.com → "Add New Project" → import the repo.
-3. Vercel auto-detects Next.js — leave the default build settings and click **Deploy**.
-4. You'll get a live `your-project.vercel.app` URL in about a minute.
-
-## Portfolio description (for Fiverr)
-
 > Built a modern, responsive landing page using Next.js and React.js with Tailwind CSS, optimized for performance and SEO. Features an animated hero section, pricing comparison, and a fully responsive layout from mobile to desktop.
